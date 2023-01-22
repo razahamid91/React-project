@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Bulbasaur",
+            "japanese": "フシギダネ",
+            "chinese": "妙蛙种子",
+            "french": "Bulbizarre"
+        },
+        "type": [
+            "Grazz",
+            "Poison"
+        ],
+        "base": {
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "special_attack": 65,
+            "special_defense": 65,
+            "speed": 45
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Ivysaur",
+            "japanese": "フシギソウ",
+            "chinese": "妙蛙草",
+            "french": "Herbizarre"
+        },
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "base": {
+            "hp": 60,
+            "attack": 62,
+            "defense": 63,
+            "special_attack": 80,
+            "special_defense": 80,
+            "speed": 60
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Venusaur",
+            "japanese": "フシギバナ",
+            "chinese": "妙蛙花",
+            "french": "Florizarre"
+        },
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "base": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "special_attack": 100,
+            "special_defense": 100,
+            "speed": 80
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "Charmander",
+            "japanese": "ヒトカゲ",
+            "chinese": "小火龙",
+            "french": "Salamèche"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "special_attack": 60,
+            "special_defense": 50,
+            "speed": 65
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "Charmeleon",
+            "japanese": "リザード",
+            "chinese": "火恐龙",
+            "french": "Reptincel"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "special_attack": 80,
+            "special_defense": 65,
+            "speed": 80
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "Charizard",
+            "japanese": "リザードン",
+            "chinese": "喷火龙",
+            "french": "Dracaufeu"
+        },
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "base": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "special_attack": 109,
+            "special_defense": 85,
+            "speed": 100
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "english": "Squirtle",
+            "japanese": "ゼニガメ",
+            "chinese": "杰尼龟",
+            "french": "Carapuce"
+        },
+        "type": [
+            "Water"
+        ],
+        "base": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "special_attack": 50,
+            "special_defense": 64,
+            "speed": 43
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "english": "Wartortle",
+            "japanese": "カメール",
+            "chinese": "卡咪龟",
+            "french": "Carabaffe"
+        },
+        "type": [
+            "Water"
+        ],
+        "base": {
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "special_attack": 65,
+            "special_defense": 80,
+            "speed": 58
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "english": "Blastoise",
+            "japanese": "カメックス",
+            "chinese": "水箭龟",
+            "french": "Tortank"
+        },
+        "type": [
+            "Water"
+        ],
+        "base": {
+            "hp": 79,
+            "attack": 83,
+            "defense": 100,
+            "special_attack": 85,
+            "special_defense": 105,
+            "speed": 78
+        }
+    },
+    {
+        "id": 10,
+        "name": {
+            "english": "Caterpie",
+            "japanese": "キャタピー",
+            "chinese": "绿毛虫",
+            "french": "Chenipan"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "hp": 45,
+            "attack": 30,
+            "defense": 35,
+            "special_attack": 20,
+            "special_defense": 20,
+            "speed": 45
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "english": "Metapod",
+            "japanese": "トランセル",
+            "chinese": "铁甲蛹",
+            "french": "Chrysacier"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "hp": 50,
+            "attack": 20,
+            "defense": 55,
+            "special_attack": 25,
+            "special_defense": 25,
+            "speed": 30
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "english": "Butterfree",
+            "japanese": "バタフリー",
+            "chinese": "巴大蝶",
+            "french": "Papilusion"
+        },
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "base": {
+            "hp": 60,
+            "attack": 45,
+            "defense": 50,
+            "special_attack": 90,
+            "special_defense": 80,
+            "speed": 70
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "english": "Weedle",
+            "japanese": "ビードル",
+            "chinese": "独角虫",
+            "french": "Aspicot"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "hp": 40,
+            "attack": 35,
+            "defense": 30,
+            "special_attack": 20,
+            "special_defense": 20,
+            "speed": 50
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "english": "Kakuna",
+            "japanese": "コクーン",
+            "chinese": "铁壳蛹",
+            "french": "Coconfort"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "hp": 45,
+            "attack": 25,
+            "defense": 50,
+            "special_attack": 25,
+            "special_defense": 25,
+            "speed": 35
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "english": "Beedrill",
+            "japanese": "スピアー",
+            "chinese": "大针蜂",
+            "french": "Dardargnan"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 40,
+            "special_attack": 45,
+            "special_defense": 80,
+            "speed": 75
+        }
+    },
+    {
+        "id": 16,
+        "name": {
+            "english": "Pidgey",
+            "japanese": "ポッポ",
+            "chinese": "波波",
+            "french": "Roucool"
+        },
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "base": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 40,
+            "special_attack": 35,
+            "special_defense": 35,
+            "speed": 56
+        }
+    },
+    {
+        "id": 17,
+        "name": {
+            "english": "Pidgeotto",
+            "japanese": "ピジョン",
+            "chinese": "比比鸟",
+            "french": "Roucoups"
+        },
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "base": {
+            "hp": 63,
+            "attack": 60,
+            "defense": 55,
+            "special_attack": 50,
+            "special_defense": 50,
+            "speed": 71
+        }
+    }
+]
