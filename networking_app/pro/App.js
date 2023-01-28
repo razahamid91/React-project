@@ -19,7 +19,6 @@ function App() {
           <Route path='/about-us' element={<AboutUs />} />
           <Route path='/profile' element={<h1>Profile Page</h1>} />
         </Routes>
-
       </div>
     </div>
     
